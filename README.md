@@ -4,6 +4,7 @@ New Discord extension that works like a Voice Changer.
 Pick from many voices and speak in voice chats with fun or anonymously 🎭
 
 # INSTRUCTION
+Download zip file (Voice-Mod-Extension_1.2.1)
 1) Open Google Chrome browser.
 
 2) Go to: chrome://extensions/
@@ -26,6 +27,7 @@ Pick from many voices and speak in voice chats with fun or anonymously 🎭
 Ты можешь выбрать любой из множества голосов и общаться в войс-чатах с удовольствием или анонимно 🎭
 
 # ИНСТРУКЦИЯ
+Скачай zip файл (Voice-Mod-Extension_1.2.1)
 1) Открой браузер Google Chrome.
    
 2) Перейди по адресу: ' chrome://extensions/ '
