@@ -8,11 +8,11 @@ Pick from many voices and speak in voice chats with fun or anonymously 🎭
 
 2) Go to: chrome://extensions/
 
-3) Enable "Developer mode" (toggle in the top right corner). '1'
+3) Enable "Developer mode" (toggle in the top right corner).
 
-4) Click "Load unpacked". '2'
+4) Click "Load unpacked". 
 
-5) Open the folder "Voice Mod Tool" and select the subfolder "Extension 1.2.1"
+5) Open the folder "Voice Mod Tool" and select the subfolder "Extension 1.2.1"(Download it)
 
 6) Pick this subfolder and submit installation.
 
@@ -30,11 +30,11 @@ Pick from many voices and speak in voice chats with fun or anonymously 🎭
    
 2) Перейди по адресу: ' chrome://extensions/ '
    
-3) Включи "режим Разработчика" (переключатель в правом верхнем углу) '1'
+3) Включи "режим Разработчика" (переключатель в правом верхнем углу) 
    
-4) Нажми "Загрузить распакованное расширение" / “Load unpacked”. '2' (СКРИН НИЖЕ)
+4) Нажми "Загрузить распакованное расширение" / “Load unpacked”. 
    
-5) Открой папку "Voice Mod Tool" и выбери в ней папку расширения "Extension 1.2.1"
+5) Открой папку "Voice Mod Tool" и выбери в ней папку расширения "Extension 1.2.1"(Download it)
  
 6) Выбери эту папку с расширением и установи расширение
 
